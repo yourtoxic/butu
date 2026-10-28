@@ -76,11 +76,11 @@ Everything is configurable from a native GNOME preferences window: colors, size,
 
 | Charging | Discharging (compact) |
 |---|---|
-| ![Charging](charging.png) | ![compact](compact.png) |
+| ![Charging](gif/charging.png) | ![compact](gif/discharging.png) |
 
 | Preferences | Wave effects |
 |---|---|
-| ![prefs](prefs.gif) | ![waves](waves.gif)|
+| ![prefs](gif/preferences.gif) | ![waves](gif/wave_effects.gif)|
 
 ## Requirements
 
